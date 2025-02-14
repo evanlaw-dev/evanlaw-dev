@@ -7,7 +7,7 @@
   - 🔭 I’m currently working on an Algorithm Visualizer
   - 🌱 I’m currently learning AI and Fullstack
   - ⚡ Fun fact: I trained in classical ballet for 12 years.
-  - 
+    
 <!-- Languages and Tools -->
 ## Languages and Tools:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) 
