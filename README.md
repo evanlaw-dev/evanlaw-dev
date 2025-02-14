@@ -25,8 +25,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-  ![Top Langs](https://github-readme-stats-nu-one-41.vercel.app/api/top-langs/?username=lawevan&layout=donut)
-  ![Evan's GitHub stats](https://github-readme-stats-nu-one-41.vercel.app/api?username=lawevan&show_icons=true)
+  ![Top Langs](https://github-readme-stats-nu-one-41.vercel.app/api/top-langs/?username=lawevan&layout=compact&theme=vision-friendly-dark)
+  ![Evan's GitHub stats](https://github-readme-stats-nu-one-41.vercel.app/api?username=lawevan&show_icons=true&theme=vision-friendly-dark&hide_rank=true&hide=stars)
 
 <!--
 **lawevan/lawevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
