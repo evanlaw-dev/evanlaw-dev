@@ -1,4 +1,4 @@
-<!!-- Header -->
+<!-- Header -->
 # Hi there 👋, I'm Evan Law
 
 💡 **Full-Stack Developer | AI Enthusiast**  
