@@ -1,7 +1,13 @@
-<!-- Header -->
+<!!-- Header -->
 # Hi there 👋, I'm Evan Law
 
-<!-- My Info -->
+💡 **Full-Stack Developer | AI Enthusiast**  
+Master’s student at UPenn transitioning into software engineering. Passionate about building scalable web applications and exploring AI solutions. Currently working on an Algorithm Visualizer.
+
+
+<!-- About Me -->
+# About Me
+
   - 📫 How to reach me **evanlaw.el@gmail.com**
   - 🤝 Connect with me: <a href="https://www.linkedin.com/in/evanlaw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/evanlaw/" height="15" width="25" /></a>
   - 🔭 I’m currently working on an Algorithm Visualizer
