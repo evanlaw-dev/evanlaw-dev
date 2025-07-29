@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Evan Law
 
 💡 **Full-Stack Developer | AI Enthusiast**  
-Master’s student at UPenn transitioning into software engineering. Passionate about building scalable web applications and exploring AI solutions. Currently working on an Algorithm Visualizer.
+Master’s student at UPenn. Passionate about building scalable web applications and exploring AI solutions. Currently working on an Algorithm Visualizer.
 
 
 <!-- About Me -->
