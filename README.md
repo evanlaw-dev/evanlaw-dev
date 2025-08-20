@@ -2,17 +2,17 @@
 # Hi there 👋, I'm Evan Law
 
 💡 **Full-Stack Developer | Blockchain and AI Enthusiast**  
-MCIT student at UPenn, exploring blockchain, internet systems, and AI. Currently learning Solana and Rust.
+MCIT student at UPenn, exploring blockchain, internet systems, and AI.
 
 <!-- About Me -->
 # About Me
 
   - 📫 How to reach me **evanlaw.el@gmail.com**
   - 🤝 Connect with me: <a href="https://www.linkedin.com/in/evanlaw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/evanlaw/" height="15" width="25" /></a>
-  - 🔭 I’m currently working on an Algorithm Visualizer
-  - 🌱 I’m currently learning AI and Fullstack
+  - 🌱 I’m currently learning Solana and Rust
   - ⚡ Fun fact: I trained in classical ballet for 12 years.
-    
+  <!--- 🔭 I’m currently working on an Algorithm Visualizer -->
+
 <!-- Languages and Tools -->
 ## Languages and Tools:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) 
