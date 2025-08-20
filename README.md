@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Evan Law
 
 💡 **Full-Stack Developer | Blockchain and AI Enthusiast**  
-Currently pursuing MCIT at UPenn, exploring blockchain, internet systems, and AI.
+MCIT student at UPenn, exploring blockchain, internet systems, and AI. Currently learning Solana and Rust.
 
 <!-- About Me -->
 # About Me
